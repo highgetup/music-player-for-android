@@ -1,0 +1,12 @@
+/FlacInfoReader.java/1.2/Wed Dec  5 02:19:13 2007//
+/FlacTagCreator.java/1.2/Wed Dec  5 02:19:13 2007//
+/FlacTagReader.java/1.2/Wed Dec  5 02:19:13 2007//
+/FlacTagWriter.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlock.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockData.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockDataApplication.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockDataCueSheet.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockDataPadding.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockDataSeekTable.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockDataStreamInfo.java/1.2/Wed Dec  5 02:19:14 2007//
+/MetadataBlockHeader.java/1.2/Wed Dec  5 02:19:14 2007//
