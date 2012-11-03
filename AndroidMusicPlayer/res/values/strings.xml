@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="music_player">音乐播放器</string>
+	<string name="widget_music">Android音乐播放器</string>
+	<string name="property">属性</string>
+	<string name="name">名称:</string>
+	<string name="size">大小:</string>
+	<string name="exit">退出</string>
+	<string name="random_open">随机:开</string>
+	<string name="random_close">随机:关</string>
+	<string name="repeat_one">单曲循环</string>
+	<string name="repeat_all">全部循环</string>
+	<string name="repeat_none">没有循环</string>
+	<string name="play">播放</string>
+	<string name="pause">暂停</string>
+	<string name="previous">上一首</string>
+	<string name="next">下一首</string>
+	<string name="sleep_mode">睡眠模式</string>
+	<string name="time_up_msg">播放器将会在%s退出.</string>
+	<string name="cancle_alarm_success">睡眠模式成功关闭!</string>
+	<string name="music_store">音乐库</string>
+	<string name="all_music">所有音乐</string>
+	<string name="length">长度</string>
+	<string name="title">标题</string>
+	<string name="albums">专辑</string>
+	<string name="artist">艺术家</string>
+	<string name="year">年代</string>
+	<string name="unknow">未知</string>
+	<string name="location">位置</string>
+	<string name="play_list">播放列表</string>
+	<string name="local_folder">本地文件夹</string>
+	<string name="delete_music_confirm">是否从SD卡上永久删除该文件?</string>
+	<string name="delete_folder_confirm">是否从SD卡上永久删除该文件夹?</string>
+	<string name="delete_music_from_playlst_confirm">是否从列表中移除该音乐?</string>
+	<string name="delete_physical_file">同时删除本地文件</string>
+	<string name="new_playlist">新建播放列表</string>
+	<string name="add_to_playlist_success">添加歌曲到播放列表:‘%s’成功!</string>
+	<string name="add_to_playlist_fail">添加歌曲到播放列表:‘%s’失败!</string>
+	<string name="delete_playlist_confirm">是否删除该播放列表?</string>
+	<string name="delete_album_confirm">是否从SD卡上永久删除该专辑?</string>
+	<string name="current_palylist">正在播放</string>
+	<string name="minute">分钟</string>
+	<string name="good_morning">早上好!</string>
+	<string name="good_noon">中午好!</string>
+	<string name="good_afternoon">下午好!</string>
+	<string name="good_evening">晚上好!</string>
+	<string name="good_night">晚安!</string>
+	<string name="add_to_playlist">添加到播放列表</string>
+	<string name="null_playlist">此播放列表为空</string>
+	<string name="music_encode">编码</string>
+	<string name="channel">声道</string>
+	<string name="frequency">频率</string>
+	<string name="bits">比特</string>
+	<string name="bitrate">码率</string>
+	
+	<string-array name="music_array">
+	    <item>添加到播放列表</item>
+	    <item>删除</item>
+	    <item>属性</item>
+	</string-array>
+	
+	<string-array name="playlist_array">
+	    <item>修改名称</item>
+	    <item>删除</item>
+	</string-array>
+	
+	<string-array name="album_array">
+	    <item>播放</item>
+	    <item>添加到播放列表</item>
+	    <item>删除</item>
+	</string-array>
+	
+</resources>

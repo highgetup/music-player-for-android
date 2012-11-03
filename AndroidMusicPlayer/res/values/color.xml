@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="special">#FFF7FA</color>
+    <color name="main_color">#FFFFE7</color>
+    <color name="indicator">#008040</color>
+</resources>
