@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="music_player">MusicPlayer</string>
+	<string name="widget_music">AndroidMusicPlayer</string>
+	<string name="property">property</string>
+	<string name="name">name:</string>
+	<string name="size">size:</string>
+	<string name="exit">exit</string>
+	<string name="random_open">random:open</string>
+	<string name="random_close">random:close</string>
+	<string name="repeat_one">repeat</string>
+	<string name="repeat_all">circle</string>
+	<string name="repeat_none">none</string>
+	<string name="play">play</string>
+	<string name="pause">pause</string>
+	<string name="previous">previous</string>
+	<string name="next">pext</string>
+	<string name="sleep_mode">sleep</string>
+	<string name="time_up_msg">player will exit at %s.</string>
+	<string name="cancle_alarm_success">sleep mode exit success!</string>
+	<string name="music_store">music store</string>
+	<string name="all_music">all music</string>
+	<string name="length">length</string>
+	<string name="title">title</string>
+	<string name="albums">album</string>
+	<string name="artist">artist</string>
+	<string name="year">year</string>
+	<string name="unknow">unknow</string>
+	<string name="location">location</string>
+	<string name="play_list">playlist</string>
+	<string name="local_folder">folder</string>
+	<string name="delete_music_confirm">delete it form SD card?</string>
+	<string name="delete_folder_confirm">delete the folder form SD card?</string>
+	<string name="delete_music_from_playlst_confirm">remove it from this playlist?</string>
+	<string name="delete_physical_file">delete physical file</string>
+	<string name="new_playlist">new playlist</string>
+	<string name="add_to_playlist_success">add the music to playlist %s success!</string>
+	<string name="add_to_playlist_fail">add the music to playlist %s fail!</string>
+	<string name="delete_playlist_confirm">delete this playlist?</string>
+	<string name="delete_album_confirm">delete this album from SD card?</string>
+	<string name="current_palylist">playing</string>
+	<string name="minute">minute</string>
+	<string name="good_morning">Good morning!</string>
+	<string name="good_noon">Good noon!</string>
+	<string name="good_afternoon">Good afternoon!</string>
+	<string name="good_evening">Good evening!</string>
+	<string name="good_night">Good night!</string>
+	<string name="add_to_playlist">add to playlist</string>
+	<string name="null_playlist">current playlist is empty</string>
+	<string name="music_encode">encode</string>
+	<string name="channel">channel</string>
+	<string name="frequency">frequency</string>
+	<string name="bits">bits</string>
+	<string name="bitrate">bitrate</string>
+	
+	<string-array name="music_array">
+	    <item>add to playlist</item>
+	    <item>delete</item>
+	    <item>property</item>
+	</string-array>
+	
+	<string-array name="playlist_array">
+	    <item>rename</item>
+	    <item>delete</item>
+	</string-array>
+	
+	<string-array name="album_array">
+	    <item>play</item>
+	    <item>add to playlist</item>
+	    <item>delete</item>
+	</string-array>
+	
+</resources>
